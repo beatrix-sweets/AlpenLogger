@@ -1,0 +1,13 @@
+,id,Tot,Persone,A testa (Giuseppe),A testa (Giulia),👫 Pagato da,A testa,A testa (Francesco),A testa (Mattia),A testa (Bea),Giro,Name
+0,60edb34f-e887-4d78-b9ed-4a25bb22e001,69.5,2,0,0.0,['f7adfd98-e7e5-4afa-8fe0-13079bb56bc4'],34.75,0.0,34.75,0,['662259f5-848c-473d-87a4-f9e343e70f31'],Chalet Lago Antorno
+1,44bed833-04ff-44c7-97dc-e58208b10f55,20.5,2,0,0.0,['f7adfd98-e7e5-4afa-8fe0-13079bb56bc4'],10.25,0.0,10.25,0,['662259f5-848c-473d-87a4-f9e343e70f31'],Spesa
+2,4b533ba3-2af7-4531-9c07-0454b135f9fe,204.0,2,0,102.0,['d4a55ab9-baa1-4252-8cf5-924c39558fb6'],102.0,0.0,0.0,0,['662259f5-848c-473d-87a4-f9e343e70f31'],B&B
+3,9cfac27c-1684-4a72-b7fb-06a0534e7ea1,100.0,3,0,33.333333333333,['d4a55ab9-baa1-4252-8cf5-924c39558fb6'],33.333333333333,0.0,0.0,0,['c666a761-5b6b-4507-9622-67f52cc23ab6'],B&B
+4,f3765a4d-a0a2-4bf5-b69e-0ecbb8ef33cd,11.0,3,0,0.0,['21e70ccb-b394-4be0-b568-83dfa237bde6'],3.666666666667,3.666666666667,0.0,0,['92a19405-506e-4621-8a94-b1068c7383f7'],Tassa di soggiorno
+5,00ad3f64-8975-44bb-a5ef-e3e5480e1192,15.0,3,0,0.0,['f7adfd98-e7e5-4afa-8fe0-13079bb56bc4'],5.0,0.0,5.0,0,['92a19405-506e-4621-8a94-b1068c7383f7'],Parcheggio Lago di Braies
+6,6063ddf7-f923-4b34-a697-06589f0bb70f,98.1,3,0,0.0,['f7adfd98-e7e5-4afa-8fe0-13079bb56bc4'],32.7,0.0,32.7,0,['92a19405-506e-4621-8a94-b1068c7383f7'],Cena giovedì
+7,9e0d6cbe-90f0-46a0-a85c-3b7332c816ce,63.4,3,0,0.0,['f7adfd98-e7e5-4afa-8fe0-13079bb56bc4'],21.133333333333,0.0,21.133333333333,0,['92a19405-506e-4621-8a94-b1068c7383f7'],Cena mercoledì
+8,ad67a9ca-60ae-43e6-a9d9-577d20a9153f,145.72,0,0,0.0,['f7adfd98-e7e5-4afa-8fe0-13079bb56bc4'],,0.0,,0,,B&B
+9,cddce646-91e9-433a-851f-835aad9bfab3,38.5,2,0,0.0,['f7adfd98-e7e5-4afa-8fe0-13079bb56bc4'],19.25,0.0,19.25,0,['fd547de5-fa90-40ec-afb2-0ecffa2e7e3d'],Cena sabato
+10,132352af-0fa7-4813-8ff8-cd83ee5c55c0,89.77,2,0,0.0,['f7adfd98-e7e5-4afa-8fe0-13079bb56bc4'],44.885,0.0,44.885,0,['fd547de5-fa90-40ec-afb2-0ecffa2e7e3d'],B&B Psichiatrico
+11,ecf3754f-7f69-4a85-884b-ab0879acba8f,56.0,2,0,0.0,['f7adfd98-e7e5-4afa-8fe0-13079bb56bc4'],28.0,0.0,28.0,0,['fd547de5-fa90-40ec-afb2-0ecffa2e7e3d'],Cena venerdì
